@@ -7,6 +7,8 @@ Razer Basilisk X HyperSpeed Mouse Control Software for macOS 12+
 
 This project is only available for the Razer Basilisk X HyperSpeed Mouse Driver, and provides an idea for those who want to port from OpenRazer to macOS to port drivers from other devices themselves
 
+Download in [Releases](https://github.com/liu5580/Razer-Basilisk-X-HyperSpeed-Driver-For-macos/releases/tag/V1.0.0)
+
 You can directly run the version of RazerControl.app in the project/build and the command-line tool razerctl, which can be downloaded and run directly, and supports macOS12+
 
 ## Self-Build Steps:
