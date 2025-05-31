@@ -4,6 +4,8 @@ Razer Basilisk X HyperSpeed 驱动 For macos
 
 本项目只适用于Razer Basilisk X HyperSpeed鼠标驱动，并为想从openRazer移植到macos的提供一种思路，可自行移植其他设备驱动
 
+从[Releases](https://github.com/liu5580/Razer-Basilisk-X-HyperSpeed-Driver-For-macos/releases/tag/V1.0.0)中下载最新构建版本
+
 可直接运行版本在项目/build中的RazerControl.app和命令行工具razerctl，可直接下载运行，支持macos12+
 
 ## 自构建步骤：
