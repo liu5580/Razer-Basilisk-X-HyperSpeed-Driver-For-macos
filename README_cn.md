@@ -211,6 +211,8 @@ rm -rf ~/Library/Preferences/com.razercontrol.macos.*
 - **支持设备**: Razer Basilisk X HyperSpeed
 - **更新日期**: 2025.5.31
 
+<img width="483" alt="iShot_2025-05-31_19 25 47" src="https://github.com/user-attachments/assets/22639216-73ce-4df7-a2c5-bf14fb256f0e" />
+
 ---
 
 **免责声明**: 这是一个非官方工具，与 Razer Inc. 无关。使用风险自负。参考openRazer开源项目遵守开源协议GPL
