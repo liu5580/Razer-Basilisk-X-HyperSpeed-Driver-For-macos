@@ -1,7 +1,7 @@
 # Razer-Basilisk-X-HyperSpeed-Driver-For-macos
 Razer Basilisk X HyperSpeed Driver For macos
 
-中文版README.md
+中文版[README.md](./README_cn.md)
 
 Razer Basilisk X HyperSpeed Mouse Control Software for macOS 12+
 
