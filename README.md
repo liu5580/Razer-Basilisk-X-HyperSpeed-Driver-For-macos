@@ -152,8 +152,7 @@ make clean && make
 ### Supported features
 - ✅ DPI Adjustment (100-16000)
 - ✅ Polling rate setting (125/500/1000 Hz)
-- ✅ Battery level monitoring
-- ✅ Battery charge status (the displayed value may be incorrect)
+- ✅ Battery level monitoring(the displayed value may be incorrect)
 - ✅ Query the firmware version
 - ✅ Device serial number query
 - ✅ Menu bar integration
