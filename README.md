@@ -202,6 +202,7 @@ rm -rf ~/Library/Preferences/com.razercontrol.macos.*
 2. **Frequently Asked Questions**:
 - Make sure you're using an official USB receiver
 - Try a different USB port
+
 - Check the battery level of the mouse
 - If the menu bar icon disappears, restart the app
 
@@ -215,6 +216,8 @@ rm -rf ~/Library/Preferences/com.razercontrol.macos.*
 - **Compatible OS**: macOS 12.0+
 - **Supported Devices**: Razer Basilisk X HyperSpeed
 - **Updated**: 2025.5.31
+
+<img width="483" alt="iShot_2025-05-31_19 25 47" src="https://github.com/user-attachments/assets/22639216-73ce-4df7-a2c5-bf14fb256f0e" />
 
 ---
 
