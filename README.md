@@ -74,7 +74,6 @@ sudo chmod +x /usr/local/bin/razerctl
 
 #### Battery monitoring
 - Real-time battery level display
-- Charge status indicator
 - Low battery warning
 
 
